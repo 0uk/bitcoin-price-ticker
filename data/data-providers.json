@@ -88,7 +88,7 @@
   "PoloniexNem": { "exchangeName":"Poloniex", "currency":"\u0243",  "baseCurrency":"XEM", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["BTC_XEM", "last"]},
   "PoloniexNav": { "exchangeName":"Poloniex", "currency":"\u0243",  "baseCurrency":"NAV", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["BTC_NAV", "last"]},
   "PoloniexRipple": { "exchangeName":"Poloniex", "currency":"\u0243",  "baseCurrency":"XRP", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["BTC_XRP", "last"]},
-    
+  "PoloniexBitcoinCash": { "exchangeName":"Poloniex", "currency":"\u0243",  "baseCurrency":"BCH", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["BTC_BCH", "last"]},
   "PoloniexMoneroUSD": { "exchangeName":"Poloniex", "currency":"$",  "baseCurrency":"XMR", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["USDT_XMR", "last"]},
   "PoloniexDashUSD": { "exchangeName":"Poloniex", "currency":"$",  "baseCurrency":"DASH", "url":"https://poloniex.com/public?command=returnTicker", "jsonPath":["USDT_DASH", "last"]}
 
