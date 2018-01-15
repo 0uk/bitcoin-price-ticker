@@ -868,6 +868,17 @@
     "value": "#000"
   },
   {
+    "name": "pPoloniexBitcoinCash", 
+    "title": "Poloniex Bitcoin/Bitcoin Cash (\u0243/XRP) ticker?", 
+    "type": "bool", 
+    "value": false 
+  },{ 
+    "name": "pPoloniexBitcoinCashColor", 
+    "title": "Poloniex Bitcoin/Bitcoin Cash Ticker color", 
+    "type": "color", 
+    "value": "#000" 
+  },
+  {
     "name": "pPoloniexMoneroUSD",
     "title": "Poloniex USD/Monero ($/XMR) ticker?",
     "type": "bool",
